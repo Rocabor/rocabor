@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Roberto Borges! 👋
 
-<!--
-**Rocabor/rocabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end developer passionate about designing intuitive and accessible user experiences. I have hands-on experience through personal projects in responsive design and web application development. I focus on learning quickly and applying new technologies, with a strong commitment to contributing to teams and solving challenges.
 
-Here are some ideas to get you started:
+## About Me
+💻📱 Passionate about web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖼️ I enjoy solving web layout problems
+
+📑 I strive to write clean and maintainable code
+
+💰 I am actively seeking my first job opportunity
+
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github)](https://skillicons.dev)
+
