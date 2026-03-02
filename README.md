@@ -35,10 +35,10 @@ Front-end developer passionate about designing intuitive and accessible user exp
 
 ---
 
+
+## 🚀 My Frontend Journey
+
 <div align="center">
-<p style="font-size:26px; font-weight:bold "> 🚀 My Frontend Journey </p>
-
-
   
 [![Monorepo](https://img.shields.io/badge/Monorepo-22_projects-8A2BE2?style=for-the-badge&logo=github)](https://github.com/Rocabor/My-Frontend-Journey-Monorepo)
 [![Last Commit](https://img.shields.io/github/last-commit/Rocabor/My-Frontend-Journey-Monorepo?style=for-the-badge&color=blue)](https://github.com/Rocabor/My-Frontend-Journey-Monorepo)
