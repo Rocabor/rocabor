@@ -29,5 +29,18 @@ Front-end Developer focused on creating intuitive and accessible web experiences
 - 🖥️ **IT support background**, currently training in **AWS (EC2, S3, Lambda, IAM), system administration, network configuration, and cloud infrastructure**
 
 
+## 📫 Contact Me
 
+<div align="center">  
+ 
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertoborgesjimez@gmail.com)
+  
+  
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rocabor-perfil&color=blue&style=flat-square&label=Profile+Views&abbreviated=true" alt="Profile views" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
+</div>
 
