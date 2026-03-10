@@ -1,24 +1,22 @@
 
-<div align="center">
+<div align="center">  
   
-# <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=4000&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B%E2%80%8B++%E2%80%8BHi%2C+I'm+Roberto+Borges!+" alt="Typing SVG" /> 
+# <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=4000&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B%E2%80%8B++%E2%80%8BHi%2C+I'm+Roberto+Borges!+" alt="Typing SVG" /> 
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Frontend_Developer-232d3a?style=for-the-badge&logo=frontendmentor&logoColor=white" />
   <img src="https://img.shields.io/badge/Open_to_work-00A98F?style=for-the-badge&logo=handshake&logoColor=white" />
   <img src="https://img.shields.io/badge/Remote_Ready-4285F4?style=for-the-badge&logo=remote&logoColor=white" />
-  <a href="https://github.com/Rocabor/Turborepo">
+  <a href="https://github.com/Rocabor/">
   <img src="https://img.shields.io/badge/📂-Explore_my_Monorepo-232d3a?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
 
 <br>
-
-Front-end Developer focused on creating intuitive and accessible web experiences. 
-Currently training in IT support and AWS infrastructure to build a solid technical foundation. 
-Eager to solve problems, learn quickly, and contribute to collaborative development teams.
-
+<div align="center">  
+Front-end Developer focused on creating intuitive and accessible web experiences. Currently training in IT support and AWS infrastructure to build a solid technical foundation. Eager to solve problems, learn quickly, and contribute to collaborative development teams.
+</div>
 
 ## 🎯 About Me
 
