@@ -1,8 +1,10 @@
 
 <div align="center">  
   
-# <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=4000&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B%E2%80%8B++%E2%80%8BHi%2C+I'm+Roberto+Borges!+" alt="Typing SVG" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=4000&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B%E2%80%8B++%E2%80%8BHi%2C+I'm+Roberto+Borges!+" alt="Typing SVG" />
 </div>
+
+---
 
 <div align="center">
   <img src="https://img.shields.io/badge/Frontend_Developer-232d3a?style=for-the-badge&logo=frontendmentor&logoColor=white" />
