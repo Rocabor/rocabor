@@ -1,10 +1,12 @@
-# Hi, I'm Roberto Borges! 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&duration=4000&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B%E2%80%8B++%E2%80%8BHi%2C+I'm+Roberto+Borges!+)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend_Developer-000000?style=for-the-badge&logo=frontendmentor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend_Developer-232d3a?style=for-the-badge&logo=frontendmentor&logoColor=white" />
   <img src="https://img.shields.io/badge/Open_to_work-00A98F?style=for-the-badge&logo=handshake&logoColor=white" />
   <img src="https://img.shields.io/badge/Remote_Ready-4285F4?style=for-the-badge&logo=remote&logoColor=white" />
-  <img src="https://img.shields.io/badge/22_Proyectos_Completados-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <a href="https://github.com/Rocabor/My-Frontend-Journey-Monorepo">
+  <img src="https://img.shields.io/badge/📂-Explore_my_Monorepo-232d3a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </div>
 
 <br>
@@ -17,26 +19,8 @@ Front-end developer passionate about designing intuitive and accessible user exp
 - 🌱 Learning **React and TypeScript** to take my skills to the next level
 - 👯 Looking to collaborate on **open source projects** and gain team experience
 - ⚡ Fun fact: **I solve a coding challenge every day** to keep my skills sharp
+- 🖥️ **IT support background**, currently training in **AWS (EC2, S3, Lambda, IAM), system administration, network configuration, and cloud infrastructure**
 
-## 🚀 My Frontend Journey
 
-I've completed **22 challenges** on Frontend Mentor, from HTML/CSS basics to JavaScript applications. All my projects are organized in a monorepo by difficulty level.
 
-<div align="center">
-  
-[![Ver mi Monorepo](https://img.shields.io/badge/📂-EXPLORAR%20MIS%2022%20PROYECTOS-2ea44f?style=for-the-badge&logo=github)](https://github.com/Rocabor/My-Frontend-Journey-Monorepo)
-
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-| # | Project | Level | Tech Stack | Live Demo | Source Code |
-|:---:|:---|:---:|:---:|:---:|:---:|
-| 01 |**Password Generator** | 🟡 **Intermediate** | <div align="center"><img src="https://skillicons.dev/icons?i=html,css,javascript" height="20" /></div> | [![Live Demo](https://img.shields.io/badge/-%23000?style=flat&logo=githubpages)](https://rocabor.github.io/My-Frontend-Journey-Monorepo/intermediate/password-generator/) | [![Source Code](https://img.shields.io/badge/Repository-%23000?style=flat&logo=github)](https://github.com/Rocabor/My-Frontend-Journey-Monorepo/tree/main/intermediate/password-generator) |
-| 02 |**Typing Speed Test** | 🔵 **Junior** | <div align="center"><img src="https://skillicons.dev/icons?i=html,css,javascript" height="20" /></div> | [![Live Demo](https://img.shields.io/badge/-%23000?style=flat&logo=githubpages)](https://rocabor.github.io/My-Frontend-Journey-Monorepo/junior/typing-speed/) | [![Source Code](https://img.shields.io/badge/Repository-%23000?style=flat&logo=github)](https://github.com/Rocabor/My-Frontend-Journey-Monorepo/tree/main/junior/typing-speed) |
-| 03 |**Stats Preview Card** | 🟢 **Newbie** | <div align="center"><img src="https://skillicons.dev/icons?i=html,css,tailwind,vite" height="20" /></div> | [![Live Demo](https://img.shields.io/badge/-%23000?style=flat&logo=githubpages)](https://rocabor.github.io/My-Frontend-Journey-Monorepo/newbie/stats-preview/) | [![Source Code](https://img.shields.io/badge/Repository-%23000?style=flat&logo=github)](https://github.com/Rocabor/My-Frontend-Journey-Monorepo/tree/main/newbie/stats-preview) |
-
-</div>
 
