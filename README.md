@@ -1,4 +1,9 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&duration=4000&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B%E2%80%8B++%E2%80%8BHi%2C+I'm+Roberto+Borges!+)](https://git.io/typing-svg)
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=4000&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B%E2%80%8B++%E2%80%8BHi%2C+I'm+Roberto+Borges!+" alt="Typing SVG" />
+  </a>
+</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Frontend_Developer-232d3a?style=for-the-badge&logo=frontendmentor&logoColor=white" />
@@ -11,7 +16,10 @@
 
 <br>
 
-Front-end developer passionate about designing intuitive and accessible user experiences. I have hands-on experience through personal projects in responsive design and web application development. I focus on learning quickly and applying new technologies, with a strong commitment to contributing to teams and solving challenges.
+Front-end Developer focused on creating intuitive and accessible web experiences. 
+Currently training in IT support and AWS infrastructure to build a solid technical foundation. 
+Eager to solve problems, learn quickly, and contribute to collaborative development teams.
+
 
 ## 🎯 About Me
 
