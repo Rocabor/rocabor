@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Frontend_Developer-232d3a?style=for-the-badge&logo=frontendmentor&logoColor=white" />
   <img src="https://img.shields.io/badge/Open_to_work-00A98F?style=for-the-badge&logo=handshake&logoColor=white" />
   <img src="https://img.shields.io/badge/Remote_Ready-4285F4?style=for-the-badge&logo=remote&logoColor=white" />
-  <a href="https://github.com/Rocabor/">
+  <a href="[https://github.com/Rocabor/](https://rocabor.github.io/Frontend-Monorepo/)">
   <img src="https://img.shields.io/badge/📂-Explore_my_Monorepo-232d3a?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
